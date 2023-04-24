@@ -1,0 +1,6 @@
+Indian Sign Language Data Set
+
+
+Speech to sign: https://drive.google.com/file/d/1HoopynlSf_lnnmWjxrlwFHMfHPTWHxbg/view?usp=sharing
+
+Sign to Speech :https://www.kaggle.com/datasets/vaishnaviasonawane/indian-sign-language-dataset

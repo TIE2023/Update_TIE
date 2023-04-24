@@ -1,0 +1,14 @@
+pyttsx3
+keyboard
+win32clipboard
+tkinter
+speech_recognition 
+numpy 
+matplotlib.pyplot 
+cv2
+os
+itertools 
+keras
+tensorflow
+operator
+cyhunspell
